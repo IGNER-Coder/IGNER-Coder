@@ -52,7 +52,10 @@ Performance-driven developer specializing in scalable architecture and modern we
 
 <div align="center">
 
-[Portfolio](#) • [Email](#) • [LinkedIn](#) • [Twitter](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=ffffff)](/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6e5494)](/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=6e5494)](/)
 
 **Open to collaborations & interesting projects**
 
