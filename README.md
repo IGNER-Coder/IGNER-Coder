@@ -29,29 +29,12 @@ Performance-driven developer specializing in scalable architecture and modern we
 
 ---
 
-## 📊 Statistics
+## 🔗 Connect
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=IGNER-Coder&show_icons=true&theme=dark&bg_color=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=6e5494" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGNER-Coder&layout=compact&theme=dark&bg_color=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+[Portfolio](#) • [Email](#) • [LinkedIn](#) • [Twitter](#)
 
-</div>
-
----
-
-## 🏗️ System Architecture (Activity)
-
-<div align="center">
-  <img src="https://github.com/IGNER-Coder/IGNER-Coder/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
