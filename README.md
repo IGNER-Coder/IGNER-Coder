@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=true&width=500&lines=Clean+Code+%26+Scalable+Systems)
+# ✨ Clean Code & Scalable Systems ✨
 
 </div>
 
