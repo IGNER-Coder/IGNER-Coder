@@ -48,6 +48,14 @@ Performance-driven developer specializing in scalable architecture and modern we
 
 ---
 
+## 🏗️ System Architecture (Activity)
+
+<div align="center">
+  <img src="https://github.com/IGNER-Coder/IGNER-Coder/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+---
+
 <div align="center">
 
 **Building elegant solutions to complex problems.**
