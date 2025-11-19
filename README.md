@@ -29,11 +29,32 @@ Performance-driven developer specializing in scalable architecture and modern we
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[Project Alpha](#)** | Full-stack React + Django application with real-time data sync |
+| **[Project Beta](#)** | Scalable microservices architecture deployed on Docker |
+| **[Project Gamma](#)** | Performance-optimized data pipeline processing 100k+ records/day |
+
+---
+
+## ⚡ Quick Stats
+
+- 🎯 **5+ years** building production systems
+- 🚀 **20+ projects** shipped to production
+- 🔧 **Expert** in React, Django, PostgreSQL, Docker
+- 💡 **Focused** on performance, scalability, and clean architecture
+
+---
+
 ## 🔗 Connect
 
 <div align="center">
 
 [Portfolio](#) • [Email](#) • [LinkedIn](#) • [Twitter](#)
+
+**Open to collaborations & interesting projects**
 
 </div>
 
